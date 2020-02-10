@@ -76,9 +76,7 @@
         <a href="mailto:obijurumagnus@gmail.com" style="margin-right:10px">
           <i class="fa fa-envelope-open" aria-hidden="true" style="font-size:20px"></i>
         </a>
-        <a href="https://github.com/" target="_blank" style="margin-right:10px">
-          <i class="fa fa-github" aria-hidden="true" style="font-size:20px"></i>
-        </a>
+       
         <a href="https://www.linkedin.com/" target="_blank" style="margin-right:10px">
           <i class="fa fa-linkedin" aria-hidden="true" style="font-size:20px"></i>
         </a>
