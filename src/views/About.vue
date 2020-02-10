@@ -17,12 +17,12 @@
             border="0"
             class="avatar"
           >
-          <h3 class="media-heading">Mohammed Ismail</h3>
+          <h3 class="media-heading">Magnus obijuru</h3>
           <h6>
-            <strong>ikismail7@gmail.com</strong>
+            <strong>obijurumagnus@gmail.com</strong>
           </h6>
           <h6>
-            <a href="https://ikismail.github.io/" target="_blank">ikismail.github.io</a>
+            <a href="https://github.com/carlomagg/Vue-ShoppingCart" target="_blank">magnus.github.io</a>
             <strong></strong>
           </h6>
 
