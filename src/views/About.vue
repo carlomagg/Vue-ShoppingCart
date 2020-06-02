@@ -15,7 +15,7 @@
             width="140"
             height="140"
             border="0"
-            class="avatar"
+            class="photo"
           >
           <h3 class="media-heading">Magnus obijuru</h3>
           <h6>
