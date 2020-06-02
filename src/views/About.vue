@@ -5,12 +5,12 @@
         <div class="modal-header">
           <h4 class="modal-title" style="margin: 0 auto">
             More About
-            <span style="color:crimson">ikismail</span>
+            <span style="color:crimson">Magnus</span>
           </h4>
         </div>
         <div class="modal-body">
           <img
-            src="https://avatars1.githubusercontent.com/u/17190913?s=460&v=4"
+            src="https://mobile.twitter.com/MagnusObijuru/photo"
             name="aboutme"
             width="140"
             height="140"
